@@ -38,13 +38,13 @@ nav ul li a{
     font-weight: 700;
 }
 .name{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: fantasy;
     color: darkturquoise;
-    font-size: 24px;
+    font-size: 22px;
 
 }
 .text p:nth-child(1){
-    font-family: calibri;
+    font-family: cursive;
     font-weight: bold;
     color: darkturquoise;
     font-size: 22px;
@@ -77,10 +77,10 @@ nav ul li a{
     left: 45%
 }
 .about{
-    height: 350px;
+    height: 370px;
     background-color:rgb(206, 194, 194);
     border-radius: 20px;
-    box-shadow: blanchedalmond;
+    box-shadow: wheat;
     display: flex;
     position: absolute;
 }
@@ -99,5 +99,36 @@ nav ul li a{
     font-size: 20px;
     position: relative;
     left: 1%;
+    
 }
-
+.project-container {
+    width: 80%;
+    height: 330px;
+    background-color: rgb(206, 194, 194);
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    display: flex;
+    margin: -7 auto 90px auto;
+    position: relative;
+    top:390px
+}
+.p-intro {
+    color: lightseagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 27px;
+    right: 18%;
+}
+.p-sol{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    right:10%;
+    top:19%;
+    font-size: 20px;
+}
+a {
+    position: relative;
+    right:67%;
+    top:50%;
+    font-size:30px;
+}
