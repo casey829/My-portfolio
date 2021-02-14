@@ -132,3 +132,24 @@ a {
     top:50%;
     font-size:30px;
 }
+.contact {
+    width: 60%;
+    height: 50px;
+    background-color: rgb(206, 194, 194);
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    display: flex;
+    margin: -7 auto 90px auto;
+    position: relative;
+    top:410px;
+}
+.contact-1 {
+    color: darkturquoise;
+    font-size: 20px;
+    
+}
+.contact-2 {
+    position:relative;
+    left: 10px;
+    top: 10px;
+}
