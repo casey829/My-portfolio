@@ -126,14 +126,12 @@ nav ul li a{
     top:19%;
     font-size: 20px;
 }
-a {
+.link{
     position: relative;
-    right:67%;
-    top:50%
+    right:120px;
+    top:190px;
     font-size: 40px;
-}
-
-    
+}  
 .contact {
     width: 60%;
     height: 50px;
